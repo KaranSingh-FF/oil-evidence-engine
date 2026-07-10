@@ -1,0 +1,11 @@
+node_modules/
+dist/
+work/
+.superpowers/
+
+*.tsbuildinfo
+*.log
+*.pid
+
+.env
+.env.*
